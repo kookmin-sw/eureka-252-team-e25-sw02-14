@@ -117,7 +117,7 @@
 이번 활동은 2040~2050년 사이의 우리 삶을 상상하여 시각화하고, 해당 장면과 연관된 기술 트렌드를 조사·벤치마킹하여 현실성과 파급효과를 평가한다. 마지막으로, 상상한 그림 속에서 나의 역할을 정의한다.
 
 
-<img src="https://sdmntprukwest.oaiusercontent.com/files/00000000-581c-6243-bc97-50a49f377f6e/raw?se=2025-10-10T07%3A08%3A46Z&sp=r&sv=2024-08-04&sr=b&scid=9e373ae7-b412-5c29-838b-1dc026318359&skoid=5939c452-ea83-4420-b5b4-21182254a5d3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-10T01%3A25%3A57Z&ske=2025-10-11T01%3A25%3A57Z&sks=b&skv=2024-08-04&sig=yQGSds7Pw9BoO1OS1LklSuC5AYufqdHnyCQCKyX3zs8%3D" width="330" height="190"/>
+<img src="https://sdmntprukwest.oaiusercontent.com/files/00000000-581c-6243-bc97-50a49f377f6e/raw?se=2025-10-10T07%3A08%3A46Z&sp=r&sv=2024-08-04&sr=b&scid=9e373ae7-b412-5c29-838b-1dc026318359&skoid=5939c452-ea83-4420-b5b4-21182254a5d3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-10T01%3A25%3A57Z&ske=2025-10-11T01%3A25%3A57Z&sks=b&skv=2024-08-04&sig=yQGSds7Pw9BoO1OS1LklSuC5AYufqdHnyCQCKyX3zs8%3D" width="330" height="600"/>
 
 
 | **상상 기술** | **현재 상용/시범 단계** | **한계/과제** | **2040-2050전망** |
