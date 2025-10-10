@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/meKNgBF9)
 # Welcome to 14팀
 
-## 1. 팀원 소개 (2주차 활동)
+## 1-1. 팀원 소개 (2주차 활동)
 
 
 ### Team Mission 1
@@ -37,7 +37,7 @@
 비록 시작은 작아도, 매주 한 걸음씩 나아가 동작하는 데모(MVP)를 꾸준히 쌓아 갈 것입니다. 실험과 피드백 속에서 성장하는 우리의 과정을 보여드리겠습니다. 혼자면 빨리, 함께면 멀리. 😎
 
 
-##  한학기 동안의 활동 내역 
+## 1-2. 한학기 동안의 활동 내역 
 - 기관/부서 인터뷰 ✔️  
 
 - 현장 탐방 ✔️  
@@ -117,7 +117,7 @@
 이번 활동은 2040~2050년 사이의 우리 삶을 상상하여 시각화하고, 해당 장면과 연관된 기술 트렌드를 조사·벤치마킹하여 현실성과 파급효과를 평가한다. 마지막으로, 상상한 그림 속에서 나의 역할을 정의한다.
 
 
-<img src="https://sdmntprukwest.oaiusercontent.com/files/00000000-581c-6243-bc97-50a49f377f6e/raw?se=2025-10-10T04%3A56%3A19Z&sp=r&sv=2024-08-04&sr=b&scid=a4ae5022-cde6-5436-ab8d-2663351a8bea&skoid=0b778285-7b0b-4cdc-ac3b-fb93e8c3686f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-10T01%3A25%3A34Z&ske=2025-10-11T01%3A25%3A34Z&sks=b&skv=2024-08-04&sig=ofqW%2BmSMGafjN9Giq5xGhsUwVYAUzomH7BQg7/2lsw8%3D" width="330" height="190"/>
+<img src="https://sdmntprukwest.oaiusercontent.com/files/00000000-581c-6243-bc97-50a49f377f6e/raw?se=2025-10-10T07%3A08%3A46Z&sp=r&sv=2024-08-04&sr=b&scid=9e373ae7-b412-5c29-838b-1dc026318359&skoid=5939c452-ea83-4420-b5b4-21182254a5d3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-10T01%3A25%3A57Z&ske=2025-10-11T01%3A25%3A57Z&sks=b&skv=2024-08-04&sig=yQGSds7Pw9BoO1OS1LklSuC5AYufqdHnyCQCKyX3zs8%3D" width="330" height="190"/>
 
 
 | **상상 기술** | **현재 상용/시범 단계** | **한계/과제** | **2040-2050전망** |
