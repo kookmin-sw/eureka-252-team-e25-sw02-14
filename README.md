@@ -149,7 +149,7 @@
 
 
 
-<img src="https://sdmntprukwest.oaiusercontent.com/files/00000000-581c-6243-bc97-50a49f377f6e/raw?se=2025-10-10T07%3A08%3A46Z&sp=r&sv=2024-08-04&sr=b&scid=9e373ae7-b412-5c29-838b-1dc026318359&skoid=5939c452-ea83-4420-b5b4-21182254a5d3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-10T01%3A25%3A57Z&ske=2025-10-11T01%3A25%3A57Z&sks=b&skv=2024-08-04&sig=yQGSds7Pw9BoO1OS1LklSuC5AYufqdHnyCQCKyX3zs8%3D" width="360" height="600"/>
+<img src="file:///Users/hanhyemin/Desktop/%E1%84%8B%E1%85%B2%E1%84%85%E1%85%A6%E1%84%8F%E1%85%A1.pdf"/>
 
 
 
