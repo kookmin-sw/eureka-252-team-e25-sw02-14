@@ -149,7 +149,7 @@
 
 
 
-<img src="file:///Users/hanhyemin/Desktop/%E1%84%8B%E1%85%B2%E1%84%85%E1%85%A6%E1%84%8F%E1%85%A1.pdf"/>
+<img src="https://gksgpals.github.io/Eureka_project/photo_page.html"/>
 
 
 
