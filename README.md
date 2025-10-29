@@ -148,6 +148,9 @@
 이번 활동은 2040~2050년 사이의 우리 삶을 상상하여 시각화하고, 해당 장면과 연관된 기술 트렌드를 조사·벤치마킹하여 현실성과 파급효과를 평가한다. 마지막으로, 상상한 그림 속에서 나의 역할을 정의한다.
 
 
+<img width="891" height="1260" alt="image" src="https://github.com/user-attachments/assets/a6b05840-22dc-4eb6-8591-45c3aaa4569c" />
+
+
 
 <img src="[eureka.png](https://github.com/gksgpals/Eureka_project/blob/main/eureka.png)"/>
 <img src="eureka.png" alt="eureka">
