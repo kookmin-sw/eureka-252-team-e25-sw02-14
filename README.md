@@ -149,7 +149,7 @@
 
 
 
-<img src="eureka.png"/>
+<img src="[eureka.png](https://github.com/gksgpals/Eureka_project/blob/main/eureka.png)"/>
 
 
 
