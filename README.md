@@ -111,8 +111,6 @@
 
 
 
-<img src="https://sdmntprjapaneast.oaiusercontent.com/files/00000000-db40-6209-9858-2a8d3379633f/raw?se=2025-10-10T05%3A35%3A45Z&sp=r&sv=2024-08-04&sr=b&scid=69c7ad77-c16a-5e6d-b90d-b491c97b411c&skoid=03727f49-62d3-42ac-8350-1c0e6559d238&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-10T01%3A25%3A38Z&ske=2025-10-11T01%3A25%3A38Z&sks=b&skv=2024-08-04&sig=wKBQjvReOXBTyM2JdtSoq%2B2VvV3toOBQUCuRbJDwgqc%3D" width="400" height="450"/>
-
 
 
 ### 느낀점
